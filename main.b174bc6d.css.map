@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b174bc6d.css","mappings":"AAAA,KACE,kBAAmB,CAEnB,6BAAiC,CADjC,QAEF","sources":["index.css"],"sourcesContent":["body {\n  background: #f5f5f5;\n  margin: 0;\n  font-family: 'Roboto', sans-serif;\n}"],"names":[],"sourceRoot":""}
